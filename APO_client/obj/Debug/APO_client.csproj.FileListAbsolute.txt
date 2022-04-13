@@ -1,0 +1,10 @@
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.Form1.resources
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\bin\Debug\APO_client.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\bin\Debug\APO_client.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\bin\Debug\APO_client.pdb
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.exe
+c:\users\максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.pdb
+C:\Users\Максим\documents\visual studio 2017\Projects\APO_client\APO_client\obj\Debug\APO_client.csproj.ResolveComReference.cache
